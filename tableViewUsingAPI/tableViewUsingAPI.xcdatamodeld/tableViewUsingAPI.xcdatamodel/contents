@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F82" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="DogInfoTable" representedClassName="DogInfoTable" syncable="YES">
+        <attribute name="dogBreedImage" optional="YES" attributeType="Binary"/>
+        <attribute name="dogBreedName" optional="YES" attributeType="String"/>
+    </entity>
+</model>
